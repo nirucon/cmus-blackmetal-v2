@@ -5,4 +5,4 @@ Best look with transparency
 
 Screenshot Alacritty with transparency
 
-![screenshot alacritty](https://github.com/nirucon/cmus-blackmetal/blob/main/cmus-blackmetal-v2-trans.png)
+![screenshot alacritty](https://github.com/nirucon/cmus-blackmetal-v2/blob/main/cmus-blackmetal-v2-trans.png)
